@@ -1,0 +1,27 @@
+body{
+   
+    background-color: rgb(37, 39, 44);
+}
+img{
+    width: 150px;
+    border-radius: 100%;
+}
+#tudo{
+    margin: auto;
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 450px;
+    border-radius: 5px;
+    padding: 10px;
+    border: solid 1px yellow;
+    margin-top: 300px;
+}
+#texto{
+    padding: 5px;
+    margin: auto;
+}
+#email{
+    text-decoration: none;
+    color: white;
+}
